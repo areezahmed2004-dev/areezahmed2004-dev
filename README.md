@@ -11,9 +11,7 @@ I enjoy working on projects that combine finance, data analysis, and technology,
   Used instrumental variables (2SLS) to estimate the causal effect of wages on employee turnover using HR and demographic data.  
   👉 https://github.com/areezahmed2004-dev/Starbucks-wage-turnover-causalanalysis
 
-  - **Portfolio Analysis (CAPM & Minimum Variance Portfolio)**  
-  Applied CAPM and mean-variance optimization to analyze stock returns, risk, correlations, and optimal portfolio construction using Excel.  
-  👉  👉 https://github.com/areezahmed2004-dev/portfolio-analysis-capm-mvp
+
 
 <!--
 Hi, I’m Areez Ahmed 👋
