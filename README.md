@@ -11,6 +11,10 @@ I enjoy working on projects that combine finance, data analysis, and technology,
   Used instrumental variables (2SLS) to estimate the causal effect of wages on employee turnover using HR and demographic data.  
   👉 https://github.com/areezahmed2004-dev/Starbucks-wage-turnover-causalanalysis
 
+  - **FP&A Forecasting & Scenario Analysis (Target Corporation)**  
+  Built an FP&A-style financial forecasting model using Target’s public filings, including historical quarterly actuals, a 2025 base-case forecast, and upside/downside scenario analysis. Delivered executive-level insights on revenue sensitivity and operating leverage.  
+  👉 https://github.com/areezahmed2004-dev/target-FPA-forecasting
+
 
 
 <!--
