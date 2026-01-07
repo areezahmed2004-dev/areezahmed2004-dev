@@ -5,13 +5,13 @@ I’m a senior at Indiana University studying **Finance** and **Business Analyti
 
 I enjoy working on projects that combine finance, data analysis, and technology, and I’m currently building a portfolio that demonstrates my skills in tools like Python, Excel, and statistical analysis. I’m especially interested in roles within consulting, corporate finance, and analytical finance functions.
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
 - **Causal Impact of Wages on Employee Turnover (Starbucks)**  
   Used instrumental variables (2SLS) to estimate the causal effect of wages on employee turnover using HR and demographic data.  
   👉 https://github.com/areezahmed2004-dev/Starbucks-wage-turnover-causalanalysis
 
-  - **FP&A Forecasting & Scenario Analysis (Target Corporation)**  
+- **FP&A Forecasting & Scenario Analysis (Target Corporation)**  
   Built an FP&A-style financial forecasting model using Target’s public filings, including historical quarterly actuals, a 2025 base-case forecast, and upside/downside scenario analysis. Delivered executive-level insights on revenue sensitivity and operating leverage.  
   👉 https://github.com/areezahmed2004-dev/target-FPA-forecasting
 
